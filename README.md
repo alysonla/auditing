@@ -1,4 +1,4 @@
-#Principle of Auditing & Assetation 
+#Principles of Auditing & Assetation 
 
 I'm taking an online auditing class through UC Berekley extension (cause I'm an accountant.)
 
